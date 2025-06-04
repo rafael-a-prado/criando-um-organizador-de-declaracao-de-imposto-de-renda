@@ -47,6 +47,7 @@ Ao realizar este desafio, os principais aprendizados e competências desenvolvid
 ---
 
 ## 📂 Arquivo  
+Observação: Para melhor experiência baixe o arquivo para visualização no excel.
 
 - [Ferramenta de Apoio à Declaração do Imposto de Renda em Excel](https://docs.google.com/spreadsheets/d/1-IDl5G5YqNT0MLQzjUfPvHwkx9aGcHUt/edit?usp=drive_link&ouid=117821077639151347290&rtpof=true&sd=true)
 
